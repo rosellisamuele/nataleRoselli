@@ -1,0 +1,22 @@
+td{
+    width: 30px;
+    height: 30px;
+    margin: 20px 20px 20px 20px;
+}
+
+body{
+    display: block;
+    text-align: center;
+    margin: auto;
+    background-color:midnightblue;
+    color:white;
+}
+
+table{
+    margin:auto;
+}
+
+img.mariahcarey{
+    width: 40%;
+    margin-top: 100px;
+}
